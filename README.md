@@ -3,10 +3,8 @@
 # Pin to top
 1. ApiGateway--https://github.com/lsk569937453/silverwind
 
-# 2023 Plan
-1. Video Meeting
-2. VPN
-3. Ssh Terminal
+# 2024 Plan
+
 
 
 <h3 align="left">Github Stats:</h3>
