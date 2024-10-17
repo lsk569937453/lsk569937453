@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm lsk569937453</h1>
 
 # Pin to top
-1. ApiGateway--[https://github.com/lsk569937453/silverwind](https://github.com/lsk569937453/silverwind),80% completed
-2. Rcache(Reimplement the redis in rust)--[https://github.com/lsk569937453/rcache](https://github.com/lsk569937453/rcache)，10% completed
-3. Rcurl(Reimplement the curl in rust)--[https://github.com/lsk569937453/rcurl](https://github.com/lsk569937453/rcurl),80% completed(http+ftp)
-4. KT(Impelemet the load testing in rust)--[https://github.com/lsk569937453/loadTesting](https://github.com/lsk569937453/loadTesting)
+1. ApiGateway--[https://github.com/lsk569937453/silverwind](https://github.com/lsk569937453/silverwind)
+2. Git Statistics(Impelemet the git statistics in tauri)--[https://github.com/lsk569937453/git-statistic](https://github.com/lsk569937453/git-statistic)
+3. Local Tools (Impelemet the local tools in tauri)--[https://github.com/lsk569937453/code-magic-public](https://github.com/lsk569937453/code-magic-public)
+4. Rcache(Reimplement the redis in rust)--[https://github.com/lsk569937453/rcache](https://github.com/lsk569937453/rcache)
+5. Rcurl(Reimplement the curl in rust)--[https://github.com/lsk569937453/rcurl](https://github.com/lsk569937453/rcurl),
+6. KT(Impelemet the tool of load testing in rust)--[https://github.com/lsk569937453/loadTesting](https://github.com/lsk569937453/loadTesting)
 # 2024 Plan
 
 
