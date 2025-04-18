@@ -7,6 +7,8 @@
 4. Rcache(Reimplement the redis in rust)--[https://github.com/lsk569937453/rcache](https://github.com/lsk569937453/rcache)
 5. Rcurl(Reimplement the curl in rust)--[https://github.com/lsk569937453/rcurl](https://github.com/lsk569937453/rcurl),
 6. KT(Impelemet the tool of load testing in rust)--[https://github.com/lsk569937453/loadTesting](https://github.com/lsk569937453/loadTesting)
+7. File Transfer(The software is to transfer files between Mobile and PC in the LAN.)--[https://github.com/lsk569937453/file-transfer](https://github.com/lsk569937453/file-transfer)
+8. Easy Viewer(Easy Viewer is a modern database management tool inspired by DBeaver, but built on the Tauri framework)--[https://github.com/lsk569937453/easy-viewer](https://github.com/lsk569937453/easy-viewer)
 # 2024 Plan
 
 
